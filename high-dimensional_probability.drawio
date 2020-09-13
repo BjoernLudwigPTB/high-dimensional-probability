@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T09:46:37.055Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4263.0 Safari/537.36" etag="3zEd_4yT6dsPKbWheALu" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-13T10:03:13.618Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4263.0 Safari/537.36" etag="ATBUaanL5prizpa19oGs" version="13.6.10" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="678" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -171,7 +171,10 @@
         <mxCell id="HAPoIs7WftZeYswxPthf-1569" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#F5AF58;strokeWidth=3;fontColor=#FFFFFF;" edge="1" parent="1" source="1396" target="1398">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1396" value="&lt;h3&gt;Section 1.4 Subgaussian distributions&lt;/h3&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="HAPoIs7WftZeYswxPthf-1573" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#F5AF58;strokeWidth=3;fontColor=#FFFFFF;" edge="1" parent="1" source="1351" target="HAPoIs7WftZeYswxPthf-1572">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1396" value="&lt;h3&gt;Section 1.4 Sub-Gaussian distributions&lt;/h3&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1031.5" y="90" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MSrnEf6_SX1GNY-UOXhY-1555" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#F5AF58;strokeWidth=3;fontColor=#FFFFFF;" parent="1" source="1396" target="MSrnEf6_SX1GNY-UOXhY-1554" edge="1">
@@ -180,10 +183,10 @@
         <mxCell id="1397" value="Tail, moments and moment generating function of standard normal distribution" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="853" y="40" width="427.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MSrnEf6_SX1GNY-UOXhY-1554" value="Subgaussian random variables" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="MSrnEf6_SX1GNY-UOXhY-1554" value="Sub-Gaussian random variables" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1250" y="203" width="184" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1398" value="Subgaussian properties" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1398" value="Sub-Gaussian properties" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="945" y="170" width="151.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1399" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1357" edge="1">
@@ -864,11 +867,14 @@
         <mxCell id="HAPoIs7WftZeYswxPthf-1549" value="Bounded" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#f5af58;" vertex="1" parent="1">
           <mxGeometry x="1497.25" y="130" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HAPoIs7WftZeYswxPthf-1555" value="Sums of independent subgaussians" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#f5af58;" vertex="1" parent="1">
+        <mxCell id="HAPoIs7WftZeYswxPthf-1555" value="Sums of independent Sub-Gaussians" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#f5af58;" vertex="1" parent="1">
           <mxGeometry x="1396.25" y="170" width="221" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HAPoIs7WftZeYswxPthf-1559" value="Centering of random variables" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#f5af58;" vertex="1" parent="1">
           <mxGeometry x="1090" y="234" width="198.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HAPoIs7WftZeYswxPthf-1572" value="&lt;h3&gt;Section 1.5 Sub-Exponential distributions&lt;/h3&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1161.5" y="334" width="280" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
