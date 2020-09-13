@@ -4,7 +4,7 @@ A mind map of the definitions, theorems, lemmas, propositions and references of 
 
 ## Preview
 
-[![overview about hte content of the course](high-dimensional_probability.svg)](https://raw.githubusercontent.com/BjoernLudwigPTB/high-dimensional-probability/master/high-dimensional_probability.svg)
+[![overview about hte content of the course](images/high-dimensional_probability.svg)](https://raw.githubusercontent.com/BjoernLudwigPTB/high-dimensional-probability/master/images/high-dimensional_probability.svg)
 
 ## Edit the diagram online
 
